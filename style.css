@@ -1,0 +1,286 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: noto;
+}
+
+@font-face {
+    font-family: Noto;
+    src: url(NotoSerifKhojki-Regular.ttf);
+}
+
+div {
+    width: 100%;
+    margin: 50px auto;
+}
+
+header img {
+    width: 100%;
+    margin-bottom: 5px;
+    height: 500px;
+}
+
+.first-con {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.first-conp {
+    text-align: center;
+    color: grey;
+    margin-bottom: 10px;
+}
+
+.first-conb button {
+    background-color: greenyellow;
+    padding: 6px 20px;
+    border-radius: 30px;
+    border: 0;
+    margin-left: 550px;
+}
+
+.second-con {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(243, 234, 234);
+}
+
+.second-con img {
+    width: 40%;
+    padding-left: 20px;
+    height: 400px;
+}
+
+.second-con div {
+    width: 60%;
+    height: 10px;
+}
+
+.button button {
+    background-color: greenyellow;
+    padding: 6px 20px;
+    border-radius: 30px;
+    border: 0;
+    margin-left: 230px;
+    margin-bottom: 0px;
+}
+
+.second-con h2 {
+    padding: 0 20px;
+    margin-bottom: 5px;
+}
+
+.second-con h3 {
+    color: grey;
+    padding: 0 20px;
+}
+
+.second-con p {
+    color: grey;
+    padding: 0 20px;
+    text-align: justify;
+}
+
+.third-con {
+    width: 80%;
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: white;
+    padding: 20px;
+}
+
+.third-con h2 {
+    width: 100%;
+    font-size: 30px;
+}
+
+.third-con p {
+    color: grey;
+    line-height: 25px;
+    width: 50%;
+}
+
+.two img {
+    width: 70%;
+    margin-top: 10px;
+    height: 450px;
+    float: right;
+}
+
+.one img {
+    width: 60%;
+}
+
+.third-con h2 {
+    text-align: justify;
+    width: 50%;
+}
+
+.fourth-con {
+    width: 80%;
+    background-color: rgb(243, 234, 234);
+    text-align: center;
+}
+
+.fourth-con img {
+    border-radius: 50%;
+    width: 15%;
+    margin-bottom: 0%;
+}
+
+.fourth-con button {
+    margin-top: 20px;
+    background-color: greenyellow;
+    padding: 6px 20px;
+    border-radius: 30px;
+    border: 0;
+    margin-bottom: 20px;
+}
+
+.fourth-con p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.fifth-con {
+    width: 80%;
+    background-color: white;
+}
+
+.fifth-con div {
+    text-align: center;
+    width: 100%;
+}
+
+.img {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.img img {
+    width: 25%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img2 {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    padding: 20px;
+    justify-content: space-evenly;
+}
+
+.img2 img {
+    width: 25%;
+    display: flex;
+}
+
+.fifth-con button {
+    background-color: greenyellow;
+    padding: 6px 20px;
+    border-radius: 30px;
+    border: 0;
+    margin-bottom: 0px;
+}
+
+.sixth-con {
+    background-color: rgb(243, 234, 234);
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+}
+
+.sixth-con header {
+    width: 100%;
+    text-align: center;
+}
+
+.sixth-con div {
+    width: 30%;
+    padding: 15px;
+}
+
+.sixth-con button {
+    background-color: greenyellow;
+    padding: 6px 20px;
+    border-radius: 30px;
+    border: 0;
+    margin-bottom: 0px;
+}
+
+.seventh-con {
+    width: 80%;
+    background-color: white;
+    text-align: left;
+    display: flex;
+}
+
+.three img {
+    width: 50%;
+    margin-left: 100px;
+}
+
+.four img {
+    width: 50%;
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.four p {
+    padding-left: 40px;
+    text-align: left;
+    font-size: 13px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+.main-con {
+    width: 80%;
+    background-color: rgb(243, 234, 234);
+    display: flex;
+    flex-wrap: wrap;
+    height: 550px;
+}
+
+.second-con2 {
+    width: 230px;
+}
+
+.second-con2 img {
+    width: 100%;
+    padding: 25px;
+    padding-top: 200px;
+}
+
+.first-con2 {
+    width: 50%;
+    padding: 10px;
+}
+
+.next-con {
+    width: 100%;
+    display: flex;
+}
+
+.inner-con1 {
+    width: 50%;
+}
+
+.inner-con2 {
+    width: 50%;
+}
+
+.next-con button {
+    background-color: greenyellow;
+    padding: 6px 20px;
+    border-radius: 30px;
+    border: 0;
+    margin-bottom: 0px;
+    margin-top: 60px;
+}
